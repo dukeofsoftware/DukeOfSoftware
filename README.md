@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dukeemree" alt="dukeemree" /></a> </p>
 
-- 🌱 Şuan öğreniyorum **Vue,node,discord.js**
+- 🌱 Şuan öğreniyorum : **Vue,node,discord.js**
 
-- 👨‍💻 Portfolyo projem [https://dukeemree.github.io/portfolio-pages/portfolio-project/](https://dukeemree.github.io/portfolio-pages/portfolio-project/)
+- 👨‍💻 Portfolyo projem : [https://dukeemree.github.io/portfolio-pages/portfolio-project/](https://dukeemree.github.io/portfolio-pages/portfolio-project/)
 
-- 📫 Bana nasıl ulaşabilirsiniz? **dukeofsoftware@gmail.com**
+- 📫 Bana nasıl ulaşabilirsiniz? : **dukeofsoftware@gmail.com**
 
-- ⚡ Rastgele bilgi **Kısa saçlı kızlar çok tatlı.**
+- ⚡ Hakkımda rastgele bilgi : **Kısa saçlı kızlar çok tatlı.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

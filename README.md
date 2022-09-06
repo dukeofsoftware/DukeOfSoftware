@@ -7,7 +7,7 @@
 
 - 🌱 Şuan öğreniyorum : **Vue,node,discord.js**
 
-- 👨‍💻 Portfolyo projem : https://dukeemree.github.io/portfolio-pages/portfolio-project/
+- 👨‍💻 Portfolyo projem : https://dukeemree.github.io/portfolio-pages/
 
 - 📫 Bana nasıl ulaşabilirsiniz? : **dukeofsoftware@gmail.com**
 

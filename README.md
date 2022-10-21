@@ -7,7 +7,7 @@
 
 - 🌱 Şuan öğreniyorum : **Vue,node,react,figma**
 
-- 👨‍💻 Portfolyo projem :https://github.com/dukeofsoftware/portfolio-project/deployments/activity_log?environment=github-pages
+- 👨‍💻 Yenilenicek
 
 - 📫 Bana nasıl ulaşabilirsiniz? : **dukeofsoftware@gmail.com**
 

@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dukeofsoftware" alt="dukeofsoftware" /></a> </p>
 
-- 🌱 Şuan öğreniyorum : **Vue,node,react,figma**
+- 🌱 Şuan öğreniyorum : **node,react,figma**
 
 - 👨‍💻 Yenilenicek
 

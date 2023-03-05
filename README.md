@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dukeofsoftware" alt="dukeofsoftware" /></a> </p>
 
-- 🌱 Şuan öğreniyorum : **node,react,figma**
+- 🌱 Şuan öğreniyorum : **next.js**
 
 - 👨‍💻 Yenilenicek
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Benimle iletişim kurun:</h3>
 <p align="left">
-<a href="https://instagram.com/artiknefretediliyor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gizlibilgi" height="30" width="40" /></a>
+<a href="https://instagram.com/artikyorgunhissediyor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gizlibilgi" height="30" width="40" /></a>
 <a href="https://discord.gg/ÖlümMeleğiSoraka'nın kölesi#3946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ÖlümMeleğiSoraka'nın kölesi#3946" height="30" width="40" /></a>
 </p>
 

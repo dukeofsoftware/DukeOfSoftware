@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dukeofsoftware" alt="dukeofsoftware" /></a> </p>
 
-- 🔭 I’m currently working on [muhtesem react](https://github.com/dukeofsoftware/muhtesem-react)
+- 🔭 I’m currently working on [social media app]()
 
 - 🌱 I’m currently learning **advanced Next.js and react packages**
 
-- 💬 Ask me about **react, html, css, javascript, tailwindcss , next.js**
+- 💬 Ask me about **react, html, css, javascript, typescript, tailwindcss , next.js**
 
 - 📫 How to reach me **dukeofsoftware@gmail.com**
 

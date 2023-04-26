@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dukeofsoftware" alt="dukeofsoftware" /></a> </p>
 
-- 🔭 I’m currently working on **social media app**
+- 🔭 I’m currently working on nothing I just finished translator
 
 - 🌱 I’m currently learning **advanced Next.js and react packages**
 

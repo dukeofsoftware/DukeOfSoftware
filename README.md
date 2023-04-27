@@ -13,26 +13,39 @@
 </div>
 
 ###
-<div style="display:flex; justify-content:center;gap:14px;flex-wrap:wrap" align="center">
-<a href="https://app.daily.dev/DukeEmree"><img src="https://api.daily.dev/devcards/5e69442afe6f481da3bd10e05cc8fdb1.png?r=8he" width="400" alt="DukeOfSoftware's Dev Card"/></a>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5eky9n2669zmoqlgnkrs6fdra&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+<span><a href="https://app.daily.dev/DukeEmree" ><img src="https://api.daily.dev/devcards/5e69442afe6f481da3bd10e05cc8fdb1.png?r=8he" width="400" alt="DukeOfSoftware's Dev Card"/></a>
+</span>
+<span clear="none"><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=5eky9n2669zmoqlgnkrs6fdra&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false" alt="spotify-github-profile"></a></span>
 
-</div>
-
-<div style="display:flex; ; justify-content:center;" align="center">
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dukeofsoftware" alt="dukeofsoftware" /></a> </p>
 </div>
 
 ###
 
-<div>
+<div style="display:flex; ; justify-content:center;" align="center">
+    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dukeofsoftware" alt="dukeofsoftware" /></a> </p>
+</div>
 
+###
+
+<div align="center">
+<p>
 - 🔭 I’m currently working on nothing I just finished translator
-- 🌱 I’m currently learning **advanced Next.js and react packages**
-- 💬 Ask me about **react, html, css, javascript, typescript, tailwindcss , next.js**
-- 📫 How to reach me **dukeofsoftware@gmail.com**
-- ⚡ Fun fact **Short haired girls are so cute**
+  </p>
+<p>
+- 🌱 I’m currently learning <strong>advanced Next.js and react packages</strong>
+  </p>
+<p>
+  - 💬 Ask me about <strong>react, html, css, javascript, typescript, tailwindcss , next.js</strong>
+  </p>
+<p>
+  - 📫 How to reach me <strong>kozanfurkanemre@gmail.com</strong>
+  </p>
+<p>
+  - ⚡ Fun fact  <strong>Short haired girls are so cute</strong>
+  </p>
+
 
 </div>
 
@@ -103,11 +116,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dukeofsoftware&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dukeofsoftware&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dukeofsoftware&" alt="dukeofsoftware" />
+  
+  <div align="center">
+  
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dukeofsoftware&" alt="dukeofsoftware" />
   
 ![dukeofsoftware's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=dukeofsoftware)
 
-
+</div>
 
 
 </div>
@@ -130,12 +146,6 @@
 ###
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/dukeofsoftware/translator-berapp/pull/11) in [dukeofsoftware/translator-berapp](https://github.com/dukeofsoftware/translator-berapp)
-2. 💪 Opened PR [#11](https://github.com/dukeofsoftware/translator-berapp/pull/11) in [dukeofsoftware/translator-berapp](https://github.com/dukeofsoftware/translator-berapp)
-3. 🎉 Merged PR [#10](https://github.com/dukeofsoftware/translator-berapp/pull/10) in [dukeofsoftware/translator-berapp](https://github.com/dukeofsoftware/translator-berapp)
-4. 💪 Opened PR [#10](https://github.com/dukeofsoftware/translator-berapp/pull/10) in [dukeofsoftware/translator-berapp](https://github.com/dukeofsoftware/translator-berapp)
-5. 🗣 Commented on [#66](https://github.com/di-sukharev/opencommit/issues/66) in [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit)
-<!--END_SECTION:activity-->
 
 
 

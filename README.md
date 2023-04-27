@@ -13,7 +13,7 @@
 </div>
 
 ###
-<div style="display:flex; justify-content:center;gap:14px;flex-wrap:wrap">
+<div style="display:flex; justify-content:center;gap:14px;flex-wrap:wrap" align="center">
 <a href="https://app.daily.dev/DukeEmree"><img src="https://api.daily.dev/devcards/5e69442afe6f481da3bd10e05cc8fdb1.png?r=8he" width="400" alt="DukeOfSoftware's Dev Card"/></a>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5eky9n2669zmoqlgnkrs6fdra&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)

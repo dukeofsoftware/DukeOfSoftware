@@ -132,8 +132,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dukeofsoftware/dukeofsoftware/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dukeofsoftware/dukeofsoftware/output/snake.svg" alt="Snake animation" />
 
+  </div
 ###
 
 
@@ -144,7 +146,10 @@
 </div>
 
 ###
-
+  
+  
+### My Recent Activities
+  
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#11](https://github.com/dukeofsoftware/translator-berapp/pull/11) in [dukeofsoftware/translator-berapp](https://github.com/dukeofsoftware/translator-berapp)
 2. 💪 Opened PR [#11](https://github.com/dukeofsoftware/translator-berapp/pull/11) in [dukeofsoftware/translator-berapp](https://github.com/dukeofsoftware/translator-berapp)
@@ -153,6 +158,3 @@
 5. 🗣 Commented on [#66](https://github.com/di-sukharev/opencommit/issues/66) in [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit)
 <!--END_SECTION:activity-->
 
-
-
-<!-- START gadpp --> 

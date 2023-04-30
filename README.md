@@ -34,13 +34,13 @@
 - 🔭 I’m currently working on nothing I just finished translator
   </p>
 <p>
-- 🌱 I’m currently learning <strong>advanced Next.js and react packages</strong>
+- 🌱 I’m currently learning <strong>Next.js</strong>
   </p>
 <p>
   - 💬 Ask me about <strong>react, html, css, javascript, typescript, tailwindcss , next.js</strong>
   </p>
 <p>
-  - 📫 How to reach me <strong>kozanfurkanemre@gmail.com</strong>
+  - 📫 How to reach me <strong>dukeemree.business@gmail.com</strong>
   </p>
 <p>
   - ⚡ Fun fact  <strong>Short haired girls are so cute</strong>

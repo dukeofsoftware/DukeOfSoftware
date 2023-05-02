@@ -151,10 +151,10 @@
 ### My Recent Activities
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/dukeofsoftware/translator-berapp/pull/11) in [dukeofsoftware/translator-berapp](https://github.com/dukeofsoftware/translator-berapp)
-2. 💪 Opened PR [#11](https://github.com/dukeofsoftware/translator-berapp/pull/11) in [dukeofsoftware/translator-berapp](https://github.com/dukeofsoftware/translator-berapp)
-3. 🎉 Merged PR [#10](https://github.com/dukeofsoftware/translator-berapp/pull/10) in [dukeofsoftware/translator-berapp](https://github.com/dukeofsoftware/translator-berapp)
-4. 💪 Opened PR [#10](https://github.com/dukeofsoftware/translator-berapp/pull/10) in [dukeofsoftware/translator-berapp](https://github.com/dukeofsoftware/translator-berapp)
-5. 🗣 Commented on [#66](https://github.com/di-sukharev/opencommit/issues/66) in [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit)
+1. ❗️ Closed issue [#172](https://github.com/shadcn/ui/issues/172) in [shadcn/ui](https://github.com/shadcn/ui)
+2. 🎉 Merged PR [#11](https://github.com/dukeofsoftware/translator-berapp/pull/11) in [dukeofsoftware/translator-berapp](https://github.com/dukeofsoftware/translator-berapp)
+3. 💪 Opened PR [#11](https://github.com/dukeofsoftware/translator-berapp/pull/11) in [dukeofsoftware/translator-berapp](https://github.com/dukeofsoftware/translator-berapp)
+4. 🎉 Merged PR [#10](https://github.com/dukeofsoftware/translator-berapp/pull/10) in [dukeofsoftware/translator-berapp](https://github.com/dukeofsoftware/translator-berapp)
+5. 💪 Opened PR [#10](https://github.com/dukeofsoftware/translator-berapp/pull/10) in [dukeofsoftware/translator-berapp](https://github.com/dukeofsoftware/translator-berapp)
 <!--END_SECTION:activity-->
 

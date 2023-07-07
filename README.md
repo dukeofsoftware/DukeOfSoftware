@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Emre and I'm a student at Haydarpaşa Highschool, from Turkey</h2>
+<h2 align="left">Hi 👋! My name is Emre and I'm a student from Turkey</h2>
 
 ###
 
@@ -40,7 +40,7 @@
   - 💬 Ask me about <strong>react, html, css, javascript, typescript, tailwindcss , next.js</strong>
   </p>
 <p>
-  - 📫 How to reach me <strong>dukeemree.business@gmail.com</strong>
+  - 📫 How to reach me <strong>kozanfurkanemre.business@gmail.com</strong>
   </p>
 <p>
   - ⚡ Fun fact  <strong>Short haired girls are so cute</strong>

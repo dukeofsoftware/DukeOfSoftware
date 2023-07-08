@@ -151,10 +151,10 @@
 ### My Recent Activities
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#668](https://github.com/shadcn/ui/issues/668) in [shadcn/ui](https://github.com/shadcn/ui)
-2. 🗣 Commented on [#619](https://github.com/shadcn/ui/issues/619) in [shadcn/ui](https://github.com/shadcn/ui)
-3. ❗ Opened issue [#668](https://github.com/shadcn/ui/issues/668) in [shadcn/ui](https://github.com/shadcn/ui)
-4. 🔒 Closed issue [#172](https://github.com/shadcn/ui/issues/172) in [shadcn/ui](https://github.com/shadcn/ui)
-5. 🎉 Merged PR [#11](https://github.com/dukeofsoftware/translator-berapp/pull/11) in [dukeofsoftware/translator-berapp](https://github.com/dukeofsoftware/translator-berapp)
+1. 🔒 Closed issue [#53](https://github.com/hashicorp/nextjs-bundle-analysis/issues/53) in [hashicorp/nextjs-bundle-analysis](https://github.com/hashicorp/nextjs-bundle-analysis)
+2. 🗣 Commented on [#53](https://github.com/hashicorp/nextjs-bundle-analysis/issues/53) in [hashicorp/nextjs-bundle-analysis](https://github.com/hashicorp/nextjs-bundle-analysis)
+3. 🗣 Commented on [#53](https://github.com/hashicorp/nextjs-bundle-analysis/issues/53) in [hashicorp/nextjs-bundle-analysis](https://github.com/hashicorp/nextjs-bundle-analysis)
+4. 🔒 Closed issue [#668](https://github.com/shadcn/ui/issues/668) in [shadcn/ui](https://github.com/shadcn/ui)
+5. 🗣 Commented on [#619](https://github.com/shadcn/ui/issues/619) in [shadcn/ui](https://github.com/shadcn/ui)
 <!--END_SECTION:activity-->
 

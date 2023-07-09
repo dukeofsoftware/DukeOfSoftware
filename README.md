@@ -151,10 +151,10 @@
 ### My Recent Activities
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/ShaanCoding/ReadME-Generator/pull/8) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
-2. ❌ Closed PR [#7](https://github.com/ShaanCoding/ReadME-Generator/pull/7) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
-3. 💪 Opened PR [#7](https://github.com/ShaanCoding/ReadME-Generator/pull/7) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
-4. 🔒 Closed issue [#53](https://github.com/hashicorp/nextjs-bundle-analysis/issues/53) in [hashicorp/nextjs-bundle-analysis](https://github.com/hashicorp/nextjs-bundle-analysis)
-5. 🗣 Commented on [#53](https://github.com/hashicorp/nextjs-bundle-analysis/issues/53) in [hashicorp/nextjs-bundle-analysis](https://github.com/hashicorp/nextjs-bundle-analysis)
+1. 💪 Opened PR [#9](https://github.com/ShaanCoding/ReadME-Generator/pull/9) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
+2. ❌ Closed PR [#8](https://github.com/ShaanCoding/ReadME-Generator/pull/8) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
+3. 💪 Opened PR [#8](https://github.com/ShaanCoding/ReadME-Generator/pull/8) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
+4. ❌ Closed PR [#7](https://github.com/ShaanCoding/ReadME-Generator/pull/7) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
+5. 💪 Opened PR [#7](https://github.com/ShaanCoding/ReadME-Generator/pull/7) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
 <!--END_SECTION:activity-->
 

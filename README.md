@@ -151,10 +151,10 @@
 ### My Recent Activities
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/ShaanCoding/ReadME-Generator/pull/9) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
-2. ❌ Closed PR [#8](https://github.com/ShaanCoding/ReadME-Generator/pull/8) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
-3. 💪 Opened PR [#8](https://github.com/ShaanCoding/ReadME-Generator/pull/8) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
-4. ❌ Closed PR [#7](https://github.com/ShaanCoding/ReadME-Generator/pull/7) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
-5. 💪 Opened PR [#7](https://github.com/ShaanCoding/ReadME-Generator/pull/7) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
+1. 💪 Opened PR [#11](https://github.com/ShaanCoding/ReadME-Generator/pull/11) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
+2. 💪 Opened PR [#9](https://github.com/ShaanCoding/ReadME-Generator/pull/9) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
+3. ❌ Closed PR [#8](https://github.com/ShaanCoding/ReadME-Generator/pull/8) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
+4. 💪 Opened PR [#8](https://github.com/ShaanCoding/ReadME-Generator/pull/8) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
+5. ❌ Closed PR [#7](https://github.com/ShaanCoding/ReadME-Generator/pull/7) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
 <!--END_SECTION:activity-->
 

@@ -151,10 +151,10 @@
 ### My Recent Activities
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/fabian-hiller/valibot/issues/76#issuecomment-1668358471) in [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot)
-2. 🔒 Closed issue [#76](https://github.com/fabian-hiller/valibot/issues/76) in [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot)
-3. 🗣 Commented on [#76](https://github.com/fabian-hiller/valibot/issues/76#issuecomment-1668347725) in [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot)
-4. ❗ Opened issue [#76](https://github.com/fabian-hiller/valibot/issues/76) in [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot)
-5. 💪 Opened PR [#12](https://github.com/ShaanCoding/ReadME-Generator/pull/12) in [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
+1. 🗣 Commented on [#84](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/84#issuecomment-1674626958) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
+2. 🗣 Commented on [#84](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/84#issuecomment-1674625215) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
+3. ❗ Opened issue [#84](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/84) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
+4. 🗣 Commented on [#76](https://github.com/fabian-hiller/valibot/issues/76#issuecomment-1668358471) in [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot)
+5. 🔒 Closed issue [#76](https://github.com/fabian-hiller/valibot/issues/76) in [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot)
 <!--END_SECTION:activity-->
 

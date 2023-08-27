@@ -151,10 +151,10 @@
 ### My Recent Activities
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#86](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/86) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
-2. 🗣 Commented on [#86](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/86#issuecomment-1678706145) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
-3. 🗣 Commented on [#88](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/88#issuecomment-1678681088) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
-4. ❗ Opened issue [#88](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/88) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
-5. ❗ Opened issue [#86](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/86) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
+1. 🗣 Commented on [#90](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/90#issuecomment-1694696906) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
+2. 🔒 Closed issue [#86](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/86) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
+3. 🗣 Commented on [#86](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/86#issuecomment-1678706145) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
+4. 🗣 Commented on [#88](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/88#issuecomment-1678681088) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
+5. ❗ Opened issue [#88](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/88) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
 <!--END_SECTION:activity-->
 

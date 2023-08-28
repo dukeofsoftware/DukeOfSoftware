@@ -40,7 +40,7 @@
   - 💬 Ask me about <strong>react, html, css, javascript, typescript, tailwindcss , next.js</strong>
   </p>
 <p>
-  - 📫 How to reach me <strong>kozanfurkanemre.business@gmail.com</strong>
+  - 📫 How to reach me <strong>kozanfurkanemre@gmail.com</strong>
   </p>
 <p>
   - ⚡ Fun fact  <strong>Short haired girls are so cute</strong>

@@ -119,7 +119,6 @@
   
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dukeofsoftware&" alt="dukeofsoftware" />
   
-![dukeofsoftware's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=dukeofsoftware)
 
 </div>
 

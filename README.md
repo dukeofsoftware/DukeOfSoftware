@@ -148,10 +148,10 @@
 ### My Recent Activities
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dukeofsoftware/series-tracker-v2/pull/1) in [dukeofsoftware/series-tracker-v2](https://github.com/dukeofsoftware/series-tracker-v2)
-2. 💪 Opened PR [#1](https://github.com/dukeofsoftware/series-tracker-v2/pull/1) in [dukeofsoftware/series-tracker-v2](https://github.com/dukeofsoftware/series-tracker-v2)
-3. 🗣 Commented on [#90](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/90#issuecomment-1694696906) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
-4. 🔒 Closed issue [#86](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/86) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
-5. 🗣 Commented on [#86](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/86#issuecomment-1678706145) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
+1. 🗣 Commented on [#701](https://github.com/iamvishnusankar/next-sitemap/issues/701#issuecomment-1696892122) in [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap)
+2. 🎉 Merged PR [#1](https://github.com/dukeofsoftware/series-tracker-v2/pull/1) in [dukeofsoftware/series-tracker-v2](https://github.com/dukeofsoftware/series-tracker-v2)
+3. 💪 Opened PR [#1](https://github.com/dukeofsoftware/series-tracker-v2/pull/1) in [dukeofsoftware/series-tracker-v2](https://github.com/dukeofsoftware/series-tracker-v2)
+4. 🗣 Commented on [#90](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/90#issuecomment-1694696906) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
+5. 🔒 Closed issue [#86](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/86) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
 <!--END_SECTION:activity-->
 

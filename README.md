@@ -148,10 +148,10 @@
 ### My Recent Activities
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/dukeofsoftware/series-tracker-v2/pull/3) in [dukeofsoftware/series-tracker-v2](https://github.com/dukeofsoftware/series-tracker-v2)
-2. 🎉 Merged PR [#2](https://github.com/dukeofsoftware/series-tracker-v2/pull/2) in [dukeofsoftware/series-tracker-v2](https://github.com/dukeofsoftware/series-tracker-v2)
-3. 💪 Opened PR [#2](https://github.com/dukeofsoftware/series-tracker-v2/pull/2) in [dukeofsoftware/series-tracker-v2](https://github.com/dukeofsoftware/series-tracker-v2)
-4. 🗣 Commented on [#701](https://github.com/iamvishnusankar/next-sitemap/issues/701#issuecomment-1696892122) in [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap)
-5. 🎉 Merged PR [#1](https://github.com/dukeofsoftware/series-tracker-v2/pull/1) in [dukeofsoftware/series-tracker-v2](https://github.com/dukeofsoftware/series-tracker-v2)
+1. 🎉 Merged PR [#4](https://github.com/dukeofsoftware/series-tracker-v2/pull/4) in [dukeofsoftware/series-tracker-v2](https://github.com/dukeofsoftware/series-tracker-v2)
+2. 💪 Opened PR [#4](https://github.com/dukeofsoftware/series-tracker-v2/pull/4) in [dukeofsoftware/series-tracker-v2](https://github.com/dukeofsoftware/series-tracker-v2)
+3. ❌ Closed PR [#3](https://github.com/dukeofsoftware/series-tracker-v2/pull/3) in [dukeofsoftware/series-tracker-v2](https://github.com/dukeofsoftware/series-tracker-v2)
+4. 💪 Opened PR [#3](https://github.com/dukeofsoftware/series-tracker-v2/pull/3) in [dukeofsoftware/series-tracker-v2](https://github.com/dukeofsoftware/series-tracker-v2)
+5. 🎉 Merged PR [#2](https://github.com/dukeofsoftware/series-tracker-v2/pull/2) in [dukeofsoftware/series-tracker-v2](https://github.com/dukeofsoftware/series-tracker-v2)
 <!--END_SECTION:activity-->
 

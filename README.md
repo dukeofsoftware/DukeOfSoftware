@@ -31,13 +31,13 @@
 
 <div align="center">
 <p>
-- 🔭 I’m currently working on nothing I just finished translator
+- 🔭 I’m currently working on notion-widget SaaS and Tracker
   </p>
 <p>
-- 🌱 I’m currently learning <strong>Next.js</strong>
+- 🌱 I’m currently learning <strong>AWS</strong>
   </p>
 <p>
-  - 💬 Ask me about <strong>react, html, css, javascript, typescript, tailwindcss , next.js</strong>
+  - 💬 Ask me about <strong>react, html, css, javascript, typescript, tailwindcss, next.js</strong>
   </p>
 <p>
   - 📫 How to reach me <strong>kozanfurkanemre@gmail.com</strong>

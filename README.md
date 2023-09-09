@@ -43,7 +43,7 @@
   - 📫 How to reach me <strong>kozanfurkanemre@gmail.com</strong>
   </p>
 <p>
-  - ⚡ Fun fact  <strong>Short haired girls are so cute</strong>
+  - ⚡ Fun fact  <strong>I love that anime girl</strong>
   </p>
 
 

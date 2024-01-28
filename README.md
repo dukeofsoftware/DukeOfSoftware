@@ -148,10 +148,10 @@
 ### My Recent Activities
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#258](https://github.com/EliverLara/Sweet/issues/258) in [EliverLara/Sweet](https://github.com/EliverLara/Sweet)
-2. ❗ Opened issue [#28](https://github.com/BroncBotz3481/YAGSL/issues/28) in [BroncBotz3481/YAGSL](https://github.com/BroncBotz3481/YAGSL)
-3. 🎉 Merged PR [#1](https://github.com/dukeofsoftware/deneme-repo/pull/1) in [dukeofsoftware/deneme-repo](https://github.com/dukeofsoftware/deneme-repo)
-4. 💪 Opened PR [#4](https://github.com/dukeofsoftware/series-tracker-v2/pull/4) in [dukeofsoftware/series-tracker-v2](https://github.com/dukeofsoftware/series-tracker-v2)
+1. 🗣 Commented on [#258](https://github.com/EliverLara/Sweet/issues/258#issuecomment-1913540358) in [EliverLara/Sweet](https://github.com/EliverLara/Sweet)
+2. ❗ Opened issue [#258](https://github.com/EliverLara/Sweet/issues/258) in [EliverLara/Sweet](https://github.com/EliverLara/Sweet)
+3. ❗ Opened issue [#28](https://github.com/BroncBotz3481/YAGSL/issues/28) in [BroncBotz3481/YAGSL](https://github.com/BroncBotz3481/YAGSL)
+4. 🎉 Merged PR [#1](https://github.com/dukeofsoftware/deneme-repo/pull/1) in [dukeofsoftware/deneme-repo](https://github.com/dukeofsoftware/deneme-repo)
 5. ❌ Closed PR [#3](https://github.com/dukeofsoftware/series-tracker-v2/pull/3) in [dukeofsoftware/series-tracker-v2](https://github.com/dukeofsoftware/series-tracker-v2)
 <!--END_SECTION:activity-->
 

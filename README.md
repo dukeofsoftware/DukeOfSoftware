@@ -148,10 +148,10 @@
 ### My Recent Activities
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#258](https://github.com/EliverLara/Sweet/issues/258#issuecomment-1913691215) in [EliverLara/Sweet](https://github.com/EliverLara/Sweet)
-2. 🔒 Closed issue [#258](https://github.com/EliverLara/Sweet/issues/258) in [EliverLara/Sweet](https://github.com/EliverLara/Sweet)
-3. 🗣 Commented on [#258](https://github.com/EliverLara/Sweet/issues/258#issuecomment-1913540358) in [EliverLara/Sweet](https://github.com/EliverLara/Sweet)
-4. ❗ Opened issue [#258](https://github.com/EliverLara/Sweet/issues/258) in [EliverLara/Sweet](https://github.com/EliverLara/Sweet)
-5. ❗ Opened issue [#28](https://github.com/BroncBotz3481/YAGSL/issues/28) in [BroncBotz3481/YAGSL](https://github.com/BroncBotz3481/YAGSL)
+1. ❗ Opened issue [#2666](https://github.com/vendure-ecommerce/vendure/issues/2666) in [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure)
+2. 🗣 Commented on [#258](https://github.com/EliverLara/Sweet/issues/258#issuecomment-1913691215) in [EliverLara/Sweet](https://github.com/EliverLara/Sweet)
+3. 🔒 Closed issue [#258](https://github.com/EliverLara/Sweet/issues/258) in [EliverLara/Sweet](https://github.com/EliverLara/Sweet)
+4. 🗣 Commented on [#258](https://github.com/EliverLara/Sweet/issues/258#issuecomment-1913540358) in [EliverLara/Sweet](https://github.com/EliverLara/Sweet)
+5. ❗ Opened issue [#258](https://github.com/EliverLara/Sweet/issues/258) in [EliverLara/Sweet](https://github.com/EliverLara/Sweet)
 <!--END_SECTION:activity-->
 

@@ -31,7 +31,7 @@
 
 <div align="center">
 <p>
-- 🔭 I’m currently working on notion-widget SaaS and Tracker
+- 🔭 I’m currently working on our our frc crescendo robot code
   </p>
 <p>
 - 🌱 I’m currently learning <strong>AWS</strong>

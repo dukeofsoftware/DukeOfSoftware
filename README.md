@@ -31,10 +31,10 @@
 
 <div align="center">
 <p>
-- 🔭 I’m currently working on our our frc crescendo robot code
+- 🔭 I’m currently working on Stardew Valley Modding
   </p>
 <p>
-- 🌱 I’m currently learning <strong>AWS</strong>
+- 🌱 I’m currently learning <strong>Stardew Valley Modding</strong>
   </p>
 <p>
   - 💬 Ask me about <strong>react, html, css, javascript, typescript, tailwindcss, next.js</strong>
@@ -43,7 +43,7 @@
   - 📫 How to reach me <strong>kozanfurkanemre@gmail.com</strong>
   </p>
 <p>
-  - ⚡ Fun fact  <strong>I love that anime girl</strong>
+  - ⚡ Fun fact  <strong>I love Taiwanese girls</strong>
   </p>
 
 

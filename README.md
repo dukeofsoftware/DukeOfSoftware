@@ -31,10 +31,10 @@
 
 <div align="center">
 <p>
-- 🔭 I’m currently working on Stardew Valley Modding
+- 🔭 I’m currently working on FRC Robot
   </p>
 <p>
-- 🌱 I’m currently learning <strong>Stardew Valley Modding</strong>
+- 🌱 I’m currently learning <strong>FRC Robot Development</strong>
   </p>
 <p>
   - 💬 Ask me about <strong>react, html, css, javascript, typescript, tailwindcss, next.js</strong>

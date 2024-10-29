@@ -42,9 +42,6 @@
 <p>
   - 📫 How to reach me <strong>kozanfurkanemre@gmail.com</strong>
   </p>
-<p>
-  - ⚡ Fun fact  <strong>I love Taiwanese girls</strong>
-  </p>
 
 
 </div>

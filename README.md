@@ -1,10 +1,5 @@
 <h2 align="left">Hi 👋! My name is Emre and Front-end Developer from Turkey</h2>
 
-###
-
-<div align="center">
-  <img height="148" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
 
 ###
 
@@ -17,7 +12,6 @@
 <div align="center">
 <span><a href="https://app.daily.dev/DukeEmree" ><img src="https://api.daily.dev/devcards/5e69442afe6f481da3bd10e05cc8fdb1.png?r=8he" width="400" alt="DukeOfSoftware's Dev Card"/></a>
 </span>
-<span clear="none"><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=5eky9n2669zmoqlgnkrs6fdra&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false" alt="spotify-github-profile"></a></span>
 
 </div>
 
@@ -131,16 +125,6 @@
 
   </div
 ###
-
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark&username=dukeemree" alt="Layout with last medium posts"  />
-</div>
-
-###
-  
   
 ### My Recent Activities
   
